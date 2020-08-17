@@ -1,0 +1,15 @@
+
+#topBtn{
+  position: fixed;
+  bottom:35px;
+  right: 22px;
+  font-size: 32px;
+  width: 60px;
+  height: 50px;
+  /*background: #e74c3c;*/
+  color:#e74c3c;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  /*display: none;*/
+}
